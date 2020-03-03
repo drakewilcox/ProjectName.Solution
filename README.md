@@ -6,7 +6,7 @@
 
 ## Description
 
-_This is a template for future projects in C# to make project setup streamlined._
+_This is a template for future projects in C# to make project setup streamlined. To use this for a new project. Rename all files that contain 'Project Name' and "Class Name," and and make sure the ProjectName is changed in the 'ProjectName.Tests.csproj' file. Remove any git files by typing ``rm -rf .git`` in the terminal and re-initialize git by typing ``git init`` in the terminal. To create the 'bin' and 'obj' folders and run tests navigate to the "ProjectName.Tests" folder and type ``dotnet restore`` in your terminal. To begin testing type ``dotnet test`` in the terminal._
 
 ## Specifications:
 
