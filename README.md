@@ -11,7 +11,7 @@ _This is a template for future projects in C# to make project setup streamlined.
 ## Specifications:
 
 | Specification | Example Input | Example Output |
-| ------------- |:-------------:| --------------:|
+| :-------------:|:-------------:|:-------------:|
 | When the user does this, the application will do that | "Input to test" | "Expected output to test" |
 
 ## Setup/Installation Requirements
