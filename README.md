@@ -39,7 +39,7 @@ To use this application, follow the following instructions.
 _Clone this repository via Terminal using the following commands:_
 * ``$ cd desktop``
 * ``$ git clone "repository link" ``
-* ``$ cd bakery-project``
+* ``$ cd ProjectName.Solution``
 
 _To Run this Console Application, enter the following command in the Terminal:_
 
