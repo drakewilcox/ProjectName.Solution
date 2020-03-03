@@ -1,0 +1,11 @@
+/Users/drakewilcox/Desktop/ProjectName.Solution/ProjectName/obj/Debug/netcoreapp2.2/ProjectName.csprojAssemblyReference.cache
+/Users/drakewilcox/Desktop/ProjectName.Solution/ProjectName/obj/Debug/netcoreapp2.2/ProjectName.csproj.CoreCompileInputs.cache
+/Users/drakewilcox/Desktop/ProjectName.Solution/ProjectName/obj/Debug/netcoreapp2.2/ProjectName.AssemblyInfoInputs.cache
+/Users/drakewilcox/Desktop/ProjectName.Solution/ProjectName/obj/Debug/netcoreapp2.2/ProjectName.AssemblyInfo.cs
+/Users/drakewilcox/Desktop/ProjectName.Solution/ProjectName/bin/Debug/netcoreapp2.2/ProjectName.deps.json
+/Users/drakewilcox/Desktop/ProjectName.Solution/ProjectName/bin/Debug/netcoreapp2.2/ProjectName.runtimeconfig.json
+/Users/drakewilcox/Desktop/ProjectName.Solution/ProjectName/bin/Debug/netcoreapp2.2/ProjectName.runtimeconfig.dev.json
+/Users/drakewilcox/Desktop/ProjectName.Solution/ProjectName/bin/Debug/netcoreapp2.2/ProjectName.dll
+/Users/drakewilcox/Desktop/ProjectName.Solution/ProjectName/bin/Debug/netcoreapp2.2/ProjectName.pdb
+/Users/drakewilcox/Desktop/ProjectName.Solution/ProjectName/obj/Debug/netcoreapp2.2/ProjectName.dll
+/Users/drakewilcox/Desktop/ProjectName.Solution/ProjectName/obj/Debug/netcoreapp2.2/ProjectName.pdb
